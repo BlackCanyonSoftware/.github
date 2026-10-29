@@ -62,5 +62,5 @@ to have.
 
 ## Contact
 
-[kyle@blackcanyonsoftware.com](mailto:kyle@blackcanyonsoftware.com) ·
+[business@blackcanyonsoftware.com](mailto:business@blackcanyonsoftware.com) ·
 [blackcanyonsoftware.com](https://www.blackcanyonsoftware.com)
