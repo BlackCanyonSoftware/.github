@@ -46,6 +46,13 @@ background and exporting it as a seamlessly looping MP4, for Wallpaper Engine,
 a phone lock screen, or anywhere a looping video works. Every knob on a panel,
 a full-size live preview, and a frame-exact encoder.
 
+**DAYnNIGHT** — a live Windows desktop wallpaper that is the sky outside right
+now. Real solar and lunar positions, real twilight, tonight's moon phase and
+four thousand stars turning at the sidereal rate, computed from your clock and
+your coordinates rather than played back from a video. A full day costs a few
+hundred kilobytes of shader instead of tens of gigabytes of frames, and 0.15%
+of one CPU core to leave running.
+
 ## Automation for small business
 
 **Quote-It** reads the quote requests arriving in a contractor's inbox and
