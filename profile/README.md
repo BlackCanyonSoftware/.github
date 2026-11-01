@@ -81,6 +81,40 @@ client; there is never a fork per customer.
 If you spend hours a week retyping the same estimates, that is the conversation
 to have.
 
+## Every product
+
+The ones described above, and the ones still being built.
+
+<div align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/vantage-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/vantage-light.png" alt="Vantage" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/can-ai-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/can-ai-light.png" alt="Can-AI" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/can-ai-stream-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/can-ai-stream-light.png" alt="Can_AI_Stream" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/conduit-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/conduit-light.png" alt="Conduit" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/daynnight-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/daynnight-light.png" alt="DAYnNIGHT" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/doctools-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/doctools-light.png" alt="doctools" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/dropgoblin-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/dropgoblin-light.png" alt="DropGoblin" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/logo-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/logo-light.png" alt="Logo" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/off-limits-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/off-limits-light.png" alt="Off-Limits" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/pixel-galaxy-studio-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/pixel-galaxy-studio-light.png" alt="Pixel Galaxy Studio" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/quote-it-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/quote-it-light.png" alt="Quote-It" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/siftcode-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/siftcode-light.png" alt="SiftCode" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/stocktake-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/stocktake-light.png" alt="StockTake" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/twitchgoblin-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/twitchgoblin-light.png" alt="TwitchGoblin" height="40"></picture>
+</div>
+
 ## Contact
 
 [business@blackcanyonsoftware.com](mailto:business@blackcanyonsoftware.com) ·
