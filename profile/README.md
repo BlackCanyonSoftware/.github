@@ -36,7 +36,7 @@ days rather than guessing at price. The backtest is complete and the pipeline
 runs unattended; the out-of-sample record is still filling, and nothing is
 claimed until it is in.
 
-### ai-suite
+### Can-AI
 
 A complete local AI stack on one machine with no API spend. One
 OpenAI-compatible endpoint fronts every model, and an orchestrator delegates to
