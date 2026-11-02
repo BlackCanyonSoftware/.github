@@ -28,7 +28,7 @@ week over week against the game's own patch history. Three seeds against Elden
 Ring surfaced *"why is everything hostile"* and *"what is poise"* on the first
 run. Milestone 0: the pipeline runs end to end on one game.
 
-### Market Predictor
+### TradeSeer
 
 Cross-sectional equity return forecasting across the S&P 500 and Nasdaq 100,
 ranking the universe by expected excess return over one, three and five trading
@@ -64,6 +64,16 @@ stars turning at the sidereal rate, computed from your clock and your
 coordinates rather than played back from a video. A full day costs a few
 hundred kilobytes of shader instead of tens of gigabytes of frames, and 0.15%
 of one CPU core to leave running.
+
+### MixMeeter
+
+A mixing desk for Linux audio. Input and output strips with faders, mutes,
+meters and per-strip EQ, a routing matrix for sending any source to any
+destination, and virtual devices that other applications see as ordinary
+hardware. It drives PipeWire rather than carrying an audio engine of its own,
+so the graph it builds belongs to the system and not to the window. Just
+started: the domain logic is separated from the interface and tested against a
+fake backend.
 
 ## Automation for small business
 
