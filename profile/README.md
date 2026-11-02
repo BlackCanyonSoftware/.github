@@ -86,8 +86,6 @@ to have.
 The ones described above, and the ones still being built.
 
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/vantage-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/vantage-light.png" alt="Vantage" height="40"></picture>
-  &nbsp;&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/can-ai-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/can-ai-light.png" alt="Can-AI" height="40"></picture>
   &nbsp;&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/can-ai-stream-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/can-ai-stream-light.png" alt="Can_AI_Stream" height="40"></picture>
@@ -102,6 +100,8 @@ The ones described above, and the ones still being built.
   &nbsp;&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/logo-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/logo-light.png" alt="Logo" height="40"></picture>
   &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/mixmeeter-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/mixmeeter-light.png" alt="MixMeeter" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/off-limits-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/off-limits-light.png" alt="Off-Limits" height="40"></picture>
   &nbsp;&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/pixel-galaxy-studio-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/pixel-galaxy-studio-light.png" alt="Pixel Galaxy Studio" height="40"></picture>
@@ -112,7 +112,11 @@ The ones described above, and the ones still being built.
   &nbsp;&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/stocktake-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/stocktake-light.png" alt="StockTake" height="40"></picture>
   &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/tradeseer-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/tradeseer-light.png" alt="TradeSeer" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/twitchgoblin-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/twitchgoblin-light.png" alt="TwitchGoblin" height="40"></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/vantage-dark.png"><img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/brands/vantage-light.png" alt="Vantage" height="40"></picture>
 </div>
 
 ## Contact
