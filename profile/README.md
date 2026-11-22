@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/lockup-dark.png">
-    <img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/lockup-light.png" alt="Black Canyon Software" width="540">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/lockup-dark.png?v=2">
+    <img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/lockup-light.png?v=2" alt="Black Canyon Software" width="540">
   </picture>
 </div>
 
