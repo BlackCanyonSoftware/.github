@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/banner-dark.png?v=1">
-    <img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/banner-light.png?v=1" alt="Black Canyon Software" width="540">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/banner-dark-walking.svg?v=1">
+    <img src="https://raw.githubusercontent.com/BlackCanyonSoftware/.github/main/profile/assets/banner-light-walking.svg?v=1" alt="Black Canyon Software" width="100%">
   </picture>
 </div>
 
